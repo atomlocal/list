@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/atomlocal.github.io/static/css/main.1a9c407d.css",
-    "main.js": "/atomlocal.github.io/static/js/main.10bf1cb8.js",
-    "index.html": "/atomlocal.github.io/index.html",
-    "static/media/delete.svg": "/atomlocal.github.io/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
-    "static/media/check.svg": "/atomlocal.github.io/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
-    "main.1a9c407d.css.map": "/atomlocal.github.io/static/css/main.1a9c407d.css.map",
-    "main.10bf1cb8.js.map": "/atomlocal.github.io/static/js/main.10bf1cb8.js.map"
+    "main.css": "/static/css/main.1a9c407d.css",
+    "main.js": "/static/js/main.531f8cd9.js",
+    "index.html": "/index.html",
+    "static/media/delete.svg": "/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
+    "static/media/check.svg": "/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.1a9c407d.css.map": "/static/css/main.1a9c407d.css.map",
+    "main.531f8cd9.js.map": "/static/js/main.531f8cd9.js.map"
   },
   "entrypoints": [
     "static/css/main.1a9c407d.css",
-    "static/js/main.10bf1cb8.js"
+    "static/js/main.531f8cd9.js"
   ]
 }
