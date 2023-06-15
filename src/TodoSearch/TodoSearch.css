@@ -1,0 +1,28 @@
+.TodoSearch{
+    background-color: rgb(173, 173, 173);
+
+    border-radius: 2px;   
+    font-size:200%;
+    font-weight: 400;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex ;
+    text-align: center;
+    height: 80px;
+    width: 70%;
+    
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 20px;
+
+}
+
+.TodoSearch::placeholder{
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+
+}
+
+.TodoSearch:focus{
+    outline-color: rgb(196, 49, 49);
+}
